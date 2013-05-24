@@ -1,0 +1,16 @@
+{
+  "name": "browserify-htmlr",
+  "version": "0.0.1",
+  "description": "Browserify transform for html/underscore templates",
+  "main": "index.js",
+  "dependencies": {
+    "through": "~2.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "pr1ntr",
+  "license": "BSD"
+}
