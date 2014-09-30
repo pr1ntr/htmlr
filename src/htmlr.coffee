@@ -23,7 +23,7 @@ module.exports = htmlr = (filename) ->
         @queue null
 
     ext = path.extname(filename)
-    if ext is ".html"
+    if ext is ".html" or ext is ".ejs"
         return through(write, end)
     else
         return through()

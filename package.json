@@ -1,6 +1,6 @@
 {
   "name": "browserify-htmlr",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Browserify transform for html/underscore templates",
   "main": "index.js",
   "dependencies": {
